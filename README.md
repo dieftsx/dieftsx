@@ -11,15 +11,15 @@
   </a>
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Dieferson-Go" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
-  <img align="center" alt="Dieferson-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Dieferson-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Dieferson-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Dieferson-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Dieferson-Next" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="Dieferson-Supabase" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg">
-  <img align="center" alt="Dieferson-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+<div align="left">
+  <img alt="Dieferson-Go" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
+  <img alt="Dieferson-Python" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img alt="Dieferson-Js" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img alt="Dieferson-Ts" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img alt="Dieferson-React" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img alt="Dieferson-Next" height="35" src="https://cdn.worldvectorlogo.com/logos/next-js.svg">
+  <img alt="Dieferson-Supabase" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg">
+  <img alt="Dieferson-Docker" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
 </div>
 
 ##
